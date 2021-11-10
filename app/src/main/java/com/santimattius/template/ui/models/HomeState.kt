@@ -1,6 +1,24 @@
-package com.santimattius.template.presentation.models
+package com.santimattius.template.ui.models
 
-sealed class HomeState
+sealed class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeState
 
 object Loading : HomeState()
 

@@ -5,5 +5,5 @@
     <string name="button_text_negative_error">Salir</string>
     <string name="message_text_empty_result">No hay resultados</string>
 
-    <string name="label_author">Autor: %s</string>
+    <string name="text_error">Ha ocurrido un error</string>
 </resources>
