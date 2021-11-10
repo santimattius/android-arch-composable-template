@@ -1,9 +1,9 @@
-package com.santimattius.template.presentation.viewmodels
+package com.santimattius.template.ui.viewmodels
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import com.santimattius.template.domain.usecases.GetPictures
-import com.santimattius.template.presentation.models.Data
-import com.santimattius.template.presentation.models.Error
+import com.santimattius.template.ui.models.Data
+import com.santimattius.template.ui.models.Error
 import com.santimattius.template.utils.CoroutinesTestRule
 import com.santimattius.template.utils.getOrAwaitValue
 import io.mockk.coEvery

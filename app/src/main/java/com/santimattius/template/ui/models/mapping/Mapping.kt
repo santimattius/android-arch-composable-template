@@ -1,7 +1,7 @@
-package com.santimattius.template.presentation.models.mapping
+package com.santimattius.template.ui.models.mapping
 
 import com.santimattius.template.domain.entities.Picture
-import com.santimattius.template.presentation.models.PictureUiModel
+import com.santimattius.template.ui.models.PictureUiModel
 
 
 internal fun List<Picture>.asUiModels() = map { it.asUiModel() }

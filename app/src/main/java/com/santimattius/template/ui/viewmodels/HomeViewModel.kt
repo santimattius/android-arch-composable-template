@@ -1,15 +1,15 @@
-package com.santimattius.template.presentation.viewmodels
+package com.santimattius.template.ui.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.santimattius.template.domain.usecases.GetPictures
-import com.santimattius.template.presentation.models.Data
-import com.santimattius.template.presentation.models.Error
-import com.santimattius.template.presentation.models.HomeState
-import com.santimattius.template.presentation.models.Loading
-import com.santimattius.template.presentation.models.mapping.asUiModels
+import com.santimattius.template.ui.models.Data
+import com.santimattius.template.ui.models.Error
+import com.santimattius.template.ui.models.HomeState
+import com.santimattius.template.ui.models.Loading
+import com.santimattius.template.ui.models.mapping.asUiModels
 import kotlinx.coroutines.CoroutineExceptionHandler
 import kotlinx.coroutines.launch
 
