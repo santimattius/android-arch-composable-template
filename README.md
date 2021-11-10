@@ -1,6 +1,6 @@
 # Android App Composable Template
 
-[![codecov](https://codecov.io/gh/santimattius/android-arch-composable-template/branch/master/graph/badge.svg?token=7ITWBL56NJ)](https://codecov.io/gh/santimattius/android-arch-composable-template) [![codecov](https://www.travis-ci.com/santimattius/android-arch-composable-template.svg?token=P7xvicFZMo2reEHHNuJS&branch=master)](https://www.travis-ci.com/santimattius/android-arch-composable-template)
+[![codecov](https://codecov.io/gh/santimattius/android-arch-composable-template/branch/master/graph/badge.svg?token=CDROIXRACF)](https://codecov.io/gh/santimattius/android-arch-composable-template)
 
 This is a template to build an Android app applying good practices and using a clean architecture, you will see that the code is super decoupled with external frameworks and even with the same Android framework, this will help you to model your domain purely in Kotlin without generating external dependencies.
 
