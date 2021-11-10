@@ -1,4 +1,4 @@
-# Android App Template
+# Android App Composable Template
 
 [![codecov](https://codecov.io/gh/santimattius/android-arch-composable-template/branch/master/graph/badge.svg?token=7ITWBL56NJ)](https://codecov.io/gh/santimattius/android-arch-composable-template) [![codecov](https://www.travis-ci.com/santimattius/android-arch-composable-template.svg?token=P7xvicFZMo2reEHHNuJS&branch=master)](https://www.travis-ci.com/santimattius/android-arch-composable-template)
 
